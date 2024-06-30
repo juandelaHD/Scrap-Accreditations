@@ -1,8 +1,4 @@
-### README.md
-
----
-
-# Scrap-Acreditaciones-RDLT
+# Scraping Accreditations
 
 ## Overview
 
